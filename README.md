@@ -31,6 +31,8 @@ If you provide one of the two settings below, twitter card metadata will be auto
 * ``PELICAN_SOBER_TWITTER_CARD_CREATOR = '__fle__' `` (author twitter account)
 * ``PELICAN_SOBER_TWITTER_CARD_SITE = '__company__' `` (website/company twitter account)
 
+## Other Options ##
+* ``TWITTER_SHARE = True`` Enable Twitter sharing on the articles
 
 ## Credits ##
 
